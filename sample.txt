@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 welcome 
 Hello   
+=======
+welcome all
+>>>>>>> a49e2e39d8086678ce4626000b9af9f7084b4cad
